@@ -20,7 +20,3 @@ This project makes use of ***sentiment analysis*** of cryptocurrency coupled wit
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
 * **Input:** Cryptocurrency historical price
 * **Output:** Trading signals triggers buying and selling
-  
-# Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
