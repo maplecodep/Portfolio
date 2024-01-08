@@ -1,4 +1,4 @@
-# Grace 
+# Grace An
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
