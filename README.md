@@ -12,7 +12,6 @@ This project integrates various news source for performing sentiment analysis ph
 * **Output:** Sentiment of Cryptocurrency
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
-![crypto trading bot](austin-distel-EMPZ7yRZoGw-unsplash.jpg)
 
 Photo by AI
 
