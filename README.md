@@ -6,7 +6,7 @@
 
 Photo by AI
 
-This project integrates various news source for performing sentiment analysis phttps://github.com/maplecodep/Portfolio/blob/main/README.mdertaining to cryptocurrencies.
+This project integrates various news source for performing sentiment analysis to cryptocurrencies.
 * **Python libraries used:** Streamlit, Huggingface, TensorFlow
 * **Input:** Tweets, News
 * **Output:** Sentiment of Cryptocurrency
