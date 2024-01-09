@@ -11,7 +11,7 @@ This project integrates various news source for performing sentiment analysis to
 * **Input:** Tweets, News
 * **Output:** Sentiment of Cryptocurrency
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
+# [Project 2: Airline Flights Performance Dashboards](https://airline-dashboards-f0l6.onrender.com)
 
 Photo by AI
 
