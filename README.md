@@ -2,7 +2,7 @@
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
-![alt text](https://github.com/maplecodep/Portfolio/blob/main/aiimg20240105.png)
+![alt text]<a href="aiimg20240105.png">
 
 Photo by AI
 
