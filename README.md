@@ -1,7 +1,7 @@
 # Grace An
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+# [Project 1: Image Claasifier with SageMaker](https://pneumonia-detection-app.onrender.com)
 ![logo 1](aiimg20240105.png)
 
 Photo by AI
