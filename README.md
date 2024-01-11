@@ -8,14 +8,14 @@ Photo by AI
 
 This project makes use of ***AWS SageMaker*** and ***Lambda Function*** in building, training and deploying machine learning models.
 - **Tools and libraries used:** Streamlit, AWS, SageMaker, Lambda, S3, CNN, Transfer Learning
-- **Input:** X-ray Image
-- **Output:** Prediction Result  
+- **Input:** X-ray image
+- **Output:** Positive or negative prediction result with probability values 
 
 # [Project 2: Airline Flights Performance Dashboards](https://airline-dashboards-f0l6.onrender.com)
 
 Photo by AI
 
 This project integrates various types of charts for displaying flight performance statitics.
-* **Python libraries used:** Streamlit, Python, Plotly, Pandas
+* **Python Libraries Used:** Streamlit, Python, Plotly, Pandas
 * **Input:** Choose year and/or report types
 * **Output:** Flight performance report or flight delay statistics
