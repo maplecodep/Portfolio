@@ -11,7 +11,7 @@ This project makes use of ***AWS SageMaker*** and ***Lambda Function*** in build
 - **Input:** X-ray image
 - **Output:** Positive or negative prediction result with probability values 
 
-# [Project 2: Airline Flights Performance Dashboards](https://airline-dashboards-f0l6.onrender.com)
+# [Project 2: Airline Flights Performance Dashboards](https://airline-performance-dashboards.onrender.com)
 
 Photo by AI
 
