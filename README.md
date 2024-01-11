@@ -16,6 +16,6 @@ This project integrates various sources for performing image classification anal
 Photo by AI
 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
+* **Python libraries used:** Streamlit, Python, Plotly, Pandas
 * **Input:** Cryptocurrency historical price
 * **Output:** Trading signals triggers buying and selling
