@@ -7,7 +7,7 @@
 Photo by AI
 
 This project makes use of ***AWS SageMaker*** and ***Lambda Function*** in building, training and deploying machine learning models.
-- **Tools and libraries used:** Streamlit, AWS, SageMaker, Lambda, S3, CNN, Transfer Learning
+- **Tools and Libraries Used:** Streamlit, AWS, SageMaker, Lambda, S3, CNN, Transfer Learning
 - **Input:** X-ray image
 - **Output:** Positive or negative prediction result with probability values 
 
