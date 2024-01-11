@@ -6,8 +6,8 @@
 
 Photo by AI
 
-This project integrates various sources for performing image classification analysis.
-- **Python libraries used:** Streamlit, AWS, SageMaker, Lambda, S3, CNN, Transfer Learning
+This project makes use of ***AWS SageMaker*** and ***Lambda Function*** in building, training and deploying machine learning models.
+- **Tools and libraries used:** Streamlit, AWS, SageMaker, Lambda, S3, CNN, Transfer Learning
 - **Input:** X-ray Image
 - **Output:** Prediction Result  
 
@@ -15,7 +15,7 @@ This project integrates various sources for performing image classification anal
 
 Photo by AI
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
+This project integrates various types of charts for displaying flight performance statitics.
 * **Python libraries used:** Streamlit, Python, Plotly, Pandas
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+* **Input:** Choose year and/or report types
+* **Output:** Flight performance report or flight delay statistics
