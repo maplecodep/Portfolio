@@ -1,5 +1,5 @@
 # Grace An
-*An Aspiring Data Scientist | 2+ Years of Experience in Data Analytics And Data Engineering*
+*An Aspiring Data Scientist | 3+ Years of Experience in Data Analytics And Data Engineering*
 
 # [Project 1: Pneumonia X-ray Detector with SageMaker](https://pneumonia-detection-app.onrender.com)
 ![logo 1](aiimg20240105.png)
