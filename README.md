@@ -13,7 +13,6 @@ This project makes use of ***AWS SageMaker*** and ***Lambda Function*** in build
 
 # [Project 2: Airline Flights Performance Dashboards](https://airline-performance-dashboards.onrender.com)
 
-Photo by AI
 
 This project integrates various types of charts for displaying flight performance statitics.
 * **Python Libraries Used:** Streamlit, Python, Plotly, Pandas
